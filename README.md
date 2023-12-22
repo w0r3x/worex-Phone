@@ -1,7 +1,21 @@
 <!-- Başlık -->
-# Worex - industries
+# Worex - Phone
 <!-- Kısa Açıklama -->
-Worex Industries Konsol Uygulaması, çeşitli araçları ve hizmetleri içeren bir menü sunan basit bir kullanıcı arayüzüdür. Aşağıda sunulan seçenekler aracılığıyla farklı işlevlere erişebilir ve kullanıcı deneyimini geliştirebilirsiniz.
+Worex Phone Konsol Uygulaması, çeşitli seçenekler ve kolaylıklar içeren bir menü sunan basit bir kullanıcı arayüzüdür. Aşağıda sunulan seçenekler aracılığıyla farklı işlevlere erişebilir ve kullanıcı deneyimini geliştirebilirsiniz.
+-------------------------------------------------------------------
+Kişi Ekleme: Yeni kişileri ad, soyad ve numara bilgileriyle ekleyin.
+Kişi Arama: Adına göre kişi arama işlemi yapın ve sonuçları görüntüleyin.
+Kişileri Görüntüleme: Tüm kişileri listeleyin ve bilgilerini görüntüleyin.
+Kişi Düzenleme: Var olan kişilerin adını, soyadını veya numarasını güncelleyin.
+Kişi Silme: Telefon rehberinden istenmeyen kişileri kaldırın.
+Çıkış: Uygulamadan çıkış yapın.
+İle
+Uygulamayı başlatmak için terminal veya komut istemcisine gidin.
+Profesyonelworex_telefon_rehberi.py dosyasını çalıştırın.
+A
+Önemli Notlar
+Kişisel telefon rehberinizi bu uygulama üzerinden yönetmek için idealdir.
+Her işlem sonrasında günlük dosyasına log eklenir. (worex_logg.txt)
 
 # problem - contact
 <p align="left">
