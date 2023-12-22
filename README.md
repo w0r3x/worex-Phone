@@ -29,15 +29,13 @@ Worex Phone Konsol Uygulaması, çeşitli seçenekler ve kolaylıklar içeren bi
 <!-- Kurulum -->
 ## Kurulum
 
-Bu Projeyi Çalıştırırken İndirilmesi Gereken Modüller:
+Bu Projeyi Çalıştırırken İndirilmesi Gereken Modül:
 
 ```bash
 Açıklama: Python yazılımlı bir proje olduğu için bilgisayarınızda Python yüklü olması lazım.
 
-Bilgisayarınızda terminali açın ve aşağıdaki kodları girin
+Bilgisayarınızda terminali açın ve aşağıdaki kodu girin.
 ----------------------------------------------------------
-pip install psutil
 pip install time
-pip install os
-pip install random
+
 
