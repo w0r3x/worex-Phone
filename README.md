@@ -9,13 +9,6 @@ Kişileri Görüntüleme: Tüm kişileri listeleyin ve bilgilerini görüntüley
 Kişi Düzenleme: Var olan kişilerin adını, soyadını veya numarasını güncelleyin.
 Kişi Silme: Telefon rehberinden istenmeyen kişileri kaldırın.
 Çıkış: Uygulamadan çıkış yapın.
-İle
--Uygulamayı başlatmak için terminal veya komut istemcisine gidin.
-Profesyonelworex_telefon_rehberi.py dosyasını çalıştırın.
-A
-Önemli Notlar
-Kişisel telefon rehberinizi bu uygulama üzerinden yönetmek için idealdir.
-Her işlem sonrasında günlük dosyasına log eklenir. (worex_logg.txt)
 
 # problem - contact
 <p align="left">
