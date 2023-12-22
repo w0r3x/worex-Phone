@@ -22,7 +22,7 @@ Worex Phone Konsol Uygulaması, çeşitli seçenekler ve kolaylıklar içeren bi
 
 #         Proje Görüntüleri
 <p align="center">
-  <img src="https://s13.gifyu.com/images/SjLe4.gif" alt="Proje GIF'i" width="400">
+  <img src="https://s13.gifyu.com/images/SjKFv.gif" alt="Proje GIF'i" width="400">
 </p>
 
 
