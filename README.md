@@ -3,12 +3,12 @@
 <!-- Kısa Açıklama -->
 Worex Phone Konsol Uygulaması, çeşitli seçenekler ve kolaylıklar içeren bir menü sunan basit bir kullanıcı arayüzüdür. Aşağıda sunulan seçenekler aracılığıyla farklı işlevlere erişebilir ve kullanıcı deneyimini geliştirebilirsiniz.
 -------------------------------------------------------------------
-1- Kişi Ekleme: Yeni kişileri ad, soyad ve numara bilgileriyle ekleyin.
-2- Kişi Arama: Adına göre kişi arama işlemi yapın ve sonuçları görüntüleyin.
-3- Kişileri Görüntüleme: Tüm kişileri listeleyin ve bilgilerini görüntüleyin.
-4- Kişi Düzenleme: Var olan kişilerin adını, soyadını veya numarasını güncelleyin.
-5- Kişi Silme: Telefon rehberinden istenmeyen kişileri kaldırın.
-6- Çıkış: Uygulamadan çıkış yapın.
+Kişi Ekleme: Yeni kişileri ad, soyad ve numara bilgileriyle ekleyin.
+Kişi Arama: Adına göre kişi arama işlemi yapın ve sonuçları görüntüleyin.
+Kişileri Görüntüleme: Tüm kişileri listeleyin ve bilgilerini görüntüleyin.
+Kişi Düzenleme: Var olan kişilerin adını, soyadını veya numarasını güncelleyin.
+Kişi Silme: Telefon rehberinden istenmeyen kişileri kaldırın.
+Çıkış: Uygulamadan çıkış yapın.
 İle
 -Uygulamayı başlatmak için terminal veya komut istemcisine gidin.
 Profesyonelworex_telefon_rehberi.py dosyasını çalıştırın.
