@@ -36,7 +36,7 @@ def menu_goster():
     elif worex_secim == "5":
         kisi_sil()
     elif worex_secim == "6":
-        print("Telefon Rehberi Uygulaması kapatılıyor. İyi günler!")
+        print("Telefon Rehberi Uygulaması kapatılıyor.")
         log_kaydet("Uygulama kapatıldı.")
         time.sleep(2)
         exit()
